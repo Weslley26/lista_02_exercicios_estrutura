@@ -7,3 +7,39 @@ as estruturas de repetição while, do while e for.
  
  
  */
+
+Console.WriteLine("Digite os dias trabalhados no mês: ");
+
+
+int diasTrabalhados = 0;
+int dia;
+Console.WriteLine("Digite os dias trabalhados (0 para sair : ");   
+while (true)
+{
+    dia = int.Parse(Console.ReadLine());
+    if (dia == 0) break;
+    diasTrabalhados++;
+}
+Console.WriteLine($"Total de dias trabalhos {diasTrabalhados}");
+
+
+//
+diasTrabalhados = 0;
+do
+{
+    Console.WriteLine("Digite os dias trabalhados (0 para sair : ");
+    dia = Convert.ToInt32(Console.ReadLine());
+    if (dia != 0) diasTrabalhados++;
+} while (dia != 0);
+Console.WriteLine($"Total de dias trabalhados {diasTrabalhados}");
+
+//
+diasTrabalhados = 0;
+for (;;)
+{
+    Console.WriteLine("Digite os dias trabalhados (0 para sair : ");
+    dia = Convert.ToInt32(Console.ReadLine());
+    if (dia == 0) break;
+    diasTrabalhados++;
+}
+Console.WriteLine($"Total de dias trabalhados {diasTrabalhados}");
