@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EF8D0CC-B6F9-4380-BE88-7F1D004B42F1}|ex10\\ex10.csproj|c:\\users\\wesle\\onedrive\\documentos\\lista_02_exercicios_estrutura\\ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF8D0CC-B6F9-4380-BE88-7F1D004B42F1}|ex10\\ex10.csproj|solutionrelative:ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FEE2DF9-4C5B-4FB5-A439-005A4E8BE122}|ex08\\ex08.csproj|c:\\users\\wesle\\onedrive\\documentos\\lista_02_exercicios_estrutura\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FEE2DF9-4C5B-4FB5-A439-005A4E8BE122}|ex08\\ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex10\\Program.cs",
+              "RelativeDocumentMoniker": "ex10\\Program.cs",
+              "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex10\\Program.cs",
+              "RelativeToolTip": "ex10\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:58:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex09\\Program.cs",
               "RelativeDocumentMoniker": "ex09\\Program.cs",
@@ -62,20 +79,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex08\\Program.cs",
               "RelativeDocumentMoniker": "ex08\\Program.cs",
               "ToolTip": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex08\\Program.cs",
               "RelativeToolTip": "ex08\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwCUAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwBsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T22:40:09.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
@@ -87,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
@@ -99,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -123,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex_03\\Program.cs",
               "RelativeDocumentMoniker": "ex_03\\Program.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wesle\\OneDrive\\Documentos\\lista_02_exercicios_estrutura\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
