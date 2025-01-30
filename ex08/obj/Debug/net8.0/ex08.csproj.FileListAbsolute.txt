@@ -1,0 +1,15 @@
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\bin\Debug\net8.0\ex08.exe
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\bin\Debug\net8.0\ex08.deps.json
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\bin\Debug\net8.0\ex08.runtimeconfig.json
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\bin\Debug\net8.0\ex08.dll
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\bin\Debug\net8.0\ex08.pdb
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.AssemblyInfoInputs.cache
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.AssemblyInfo.cs
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.sourcelink.json
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.dll
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\refint\ex08.dll
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.pdb
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ex08.genruntimeconfig.cache
+C:\Users\wesle\OneDrive\Documentos\lista_02_exercicios_estrutura\ex08\obj\Debug\net8.0\ref\ex08.dll
