@@ -1,14 +1,14 @@
 ﻿/*
-Um vendedor de passagens deseja saber quantas passagens ele vendeu em um 
+ Um vendedor de passagens deseja saber quantas passagens ele vendeu em um 
 dia. O aluno deve pedir ao usuário para inserir o valor das passagens vendidas até 
 que ele digite um valor negativo. O total de passagens vendidas deve ser calculado 
 e apresentado utilizando while, do while e for.
- 
+
  */
 
 int totalPassagens = 0;
 double valorPassagem;
-Console.WriteLine("Digite o valor das passagens (0 para sair): ");
+Console.WriteLine("Digite o valor das passagens vendidas (0 para sair): ");
 while (true)
 {
     valorPassagem = Convert.ToDouble(Console.ReadLine());
